@@ -6,7 +6,7 @@
 ## 팀원소개
 |유다연|강지민|
 |---|---|
-|대표, 프론트엔드 개발자|백엔드 개발자|
+|프론트엔드 개발자|백엔드 개발자|
 |React, React-Native|Spring|React|
 | <a href='https://github.com/manyyeon'><img src='https://user-images.githubusercontent.com/87538540/198532835-b0cb76be-53ba-4d2c-bb0d-2e2286915fa5.jpeg' width='200px'/></a> |<a href='https://github.com/jmk307'><img src='https://avatars.githubusercontent.com/u/84773954?v=4' width='200px'/></a>|
   
